@@ -13,10 +13,6 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 
 </header>
 
-# This is first header
-## This is second header
-### This is thrid type header
-
 <!--
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
